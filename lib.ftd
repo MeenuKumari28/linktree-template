@@ -1,0 +1,80 @@
+-- component linktree:
+caption name:
+body body:
+string social-link-text-1:
+string social-link-url-1:
+string social-link-text-2:
+string social-link-url-2:
+string social-link-text-3:
+string social-link-url-3:
+string social-link-text-4:
+string social-link-url-4:
+ftd.image-src avatar:
+
+-- ds.section-row:
+flush: narrow
+margin: $ds.spaces.vertical-gap.zero
+inset: $ds.spaces.inset-tall.zero-medium
+inner-background.solid: $ds.colors.background.base
+radius: $ds.radius.large
+spacing: $ds.spaces.horizontal-gap.space-between
+
+-- ds.column:
+spacing: $ds.spaces.vertical-gap.medium
+align-content: left
+inset: $ds.spaces.inset-wide.large
+
+-- ftd.image:
+src: $linktree.avatar
+width.fixed.px: 128
+border-radius.px: 100
+
+-- ds.heading-large: $linktree.name
+color: $ds.colors.text-strong
+;;style: regular
+
+-- ds.copy-regular: $linktree.body
+
+-- end: ds.column
+
+-- ds.column:
+width: hug-content
+border: $ds.borders.right.small
+border-color: $ds.colors.border-strong
+height: fill-container
+radius: $ds.radius.zero
+
+-- end: ds.column
+
+-- ds.column:
+inset: $ds.spaces.inset-wide.large
+
+-- ds.secondary-button: $linktree.social-link-text-1
+link: $linktree.social-link-url-1
+rounded: true
+width: full
+size: large
+
+-- ds.secondary-button: $linktree.social-link-text-2
+link: $linktree.social-link-url-2
+rounded: true
+width: full
+size: large
+
+-- ds.secondary-button: $linktree.social-link-text-3
+link: $linktree.social-link-url-3
+rounded: true
+width: full
+size: large
+
+-- ds.secondary-button: $linktree.social-link-text-4
+link: $linktree.social-link-url-4
+rounded: true
+width: full
+size: large
+
+-- end: ds.column
+
+-- end: ds.section-row
+
+-- end: linktree

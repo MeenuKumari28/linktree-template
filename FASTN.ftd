@@ -3,17 +3,10 @@
 -- fastn.package: meenukumari28.github.io/linktree-template
 favicon: /-/meenukumari28.github.io/linktree-template/favicon.ico
 
--- fastn.dependency: fastn-community.github.io/doc-site as doc-site
--- fastn.dependency: fastn-community.github.io/footer
 -- fastn.dependency: fastn-community.github.io/roboto-typography
--- fastn.dependency: fastn-community.github.io/dark-flame-cs
+-- fastn.dependency: fastn-community.github.io/design-system
+provided-via: meenukumari28.github.io/linktree-template/ds
 
--- fastn.auto-import: meenukumari28.github.io/linktree-template/FASTN/ds
 -- fastn.auto-import: meenukumari28.github.io/linktree-template/assets
--- fastn.auto-import: doc-site
-
--- fastn.sitemap:
-
-# Home: index.html
-
-- Right Sidebar Sample: /sidebar/
+-- fastn.auto-import: meenukumari28.github.io/linktree-template/ds
+-- fastn.auto-import: meenukumari28.github.io/linktree-template/lib

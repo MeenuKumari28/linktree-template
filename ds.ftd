@@ -4,7 +4,7 @@ exposing: page-widths
 
 
 -- page-widths widths:
-regular.px: 1240
+regular.px: 1000
 narrow.px: 800
 wide.px: 1340
 

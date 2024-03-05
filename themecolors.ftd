@@ -26,8 +26,8 @@ overlay: $overlay-
 code: $code-
 
 -- ftd.color border-:
-light: #ECE8F1
-dark: #252128
+light: #808080
+dark: #808080
 
 -- ftd.color border-strong-:
 light: #282828

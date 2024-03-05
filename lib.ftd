@@ -136,7 +136,6 @@ string social-link-url-4:
 
 -- ds.column:
 width.fixed.px if { ftd.device != "mobile" }: 395
-spacing: $ds.spaces.vertical-gap.large
 inset: $ds.spaces.inset-wide.large
 
 -- ds.secondary-button: $linktree-social-detail.social-link-text-1

@@ -25,8 +25,8 @@ screenshot: $assets.files.assets.linktree-1.PNG
 updated-on: 23 Feb 2024
 preview-url: https://meenukumari28.github.io/linktree-template/
 github-url: https://github.com/MeenuKumari28/linktree-template
-features: • Light and dark mode • Responsive Design for web and mobile • Colour styles • High quality Images • Multipage website
-pages: • Home page • Content page • Documentation detail page • Contact page • Terms & conditions page
+features: - Light and dark mode, - Responsive Design for web and mobile, - Colour styles, - High quality Images, - Multipage website
+pages: - Home page, - Content page, - Documentation detail page, - Contact page, - Terms & conditions page
 
 A customizable blog starter including modern designs with dark & light themes.
 Built with Next.js, Tailwind, and MDX.

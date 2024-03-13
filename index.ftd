@@ -20,11 +20,11 @@ amet Lorem ipsum dolor set amet Lorem ipsum dolor set
 -- end: ds.page
 
 -- ds.package-info package-info:
-template-name: Linktree 2
-screenshot: $assets.files.assets.templates.linktree-2.PNG
+template-name: Linktree 1
+screenshot: $assets.files.assets.templates.linktree-1.PNG
 updated-on: 23 Feb 2024
-preview-url: https://meenukumari28.github.io/linktree-template-2/
-github-url: https://github.com/MeenuKumari28/linktree-template-2
+preview-url: https://meenukumari28.github.io/linktree-template-1/
+github-url: https://github.com/MeenuKumari28/linktree-template-1
 features: • Light and dark mode • Responsive Design for web and mobile • Colour styles • High quality Images • Multipage website
 pages: • Home page • Content page • Documentation detail page • Contact page • Terms & conditions page
 

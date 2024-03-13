@@ -19,8 +19,7 @@ amet Lorem ipsum dolor set amet Lorem ipsum dolor set
 
 -- end: ds.page
 
-
--- ds.package-info:
+-- ds.package-info package-info:
 template-name: Linktree 2
 screenshot: $assets.files.assets.templates.linktree-2.PNG
 updated-on: 23 Feb 2024
@@ -31,3 +30,5 @@ pages: • Home page • Content page • Documentation detail page • Contact 
 
 A customizable blog starter including modern designs with dark & light themes.
 Built with Next.js, Tailwind, and MDX.
+
+

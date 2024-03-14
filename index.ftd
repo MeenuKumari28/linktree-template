@@ -21,7 +21,7 @@ amet Lorem ipsum dolor set amet Lorem ipsum dolor set
 
 -- ds.package-info package-info:
 template-name: Linktree 1
-screenshot: $assets.files.assets.linktree-1.png
+screenshot: $assets.files.assets.linktree.png
 updated-on: 23 Feb 2024
 preview-url: https://meenukumari28.github.io/linktree-template/
 github-url: https://github.com/MeenuKumari28/linktree-template
